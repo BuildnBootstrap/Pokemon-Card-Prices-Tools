@@ -26,7 +26,8 @@ All links were checked live as of June 2026. Contributions welcome — see [Cont
 
 ## Market Data & Indices
 
-- [TCGscreener](https://tcgscreener.com) - Free analytics giving every card and set a modeled dollar marketcap, with daily price tracking, a Pokémon price index, and PSA population data plus an is-it-worth-grading tool.
+- [TCGscreener](https://tcgscreener.com/pokemon) - Free analytics with screening for every price, variable, and artist. Gives every card and set a modeled dollar marketcap, with daily price tracking, a Pokémon price index, and PSA population data plus an is-it-worth-grading tool.
+- [PriceCharting](https://www.pricecharting.com/category/pokemon-cards) - Extensive Price history across graded and loose cards.
 - [Card Ladder](https://www.cardladder.com/) - Sales-history and market-index platform aggregating public card sales (eBay, Goldin, Heritage, and more) into price guides and indexes.
 - [PokeInvesting](https://pokeinvesting.com/) - Portfolio and price-tracking platform for English and Japanese cards, with daily movers, a PSA grading-ROI calculator, and inventory bookkeeping.
 - [Market Movers](https://www.marketmoversapp.com/) - Pricing and index app (sports-card-first) with a dedicated Pokémon price guide, aggregating graded and raw sales comps from eBay, Goldin, Heritage, and PSA.
