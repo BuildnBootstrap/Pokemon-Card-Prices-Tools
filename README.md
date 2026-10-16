@@ -16,6 +16,8 @@ All links were checked live as of June 2026. Contributions welcome — see [Cont
 
 ## Price Guides & Trackers
 
+- [Worth Ripping](https://worthripping.com/) - Compares sealed Pokémon TCG box prices with modeled pull value and selling costs; covers 1,194 boxes across 22 TCGs with 100,000 simulated openings.
+
 - [TCGplayer Price Guides](https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/price-guides) - Per-set price guides for singles and sealed product, showing Market Price (recent sales) and Listed Median (current listings).
 - [Cardmarket](https://www.cardmarket.com/en/Pokemon) - Europe's largest Pokémon marketplace, with per-card trend and average sale prices in EUR from its own listings and completed sales.
 - [PokePriceTracker](https://www.pokemonpricetracker.com/) - Price tracker aggregating TCGplayer, eBay, and Cardmarket data for raw and graded cards, with historical charts and a developer API.
