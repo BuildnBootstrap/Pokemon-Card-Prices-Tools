@@ -42,6 +42,7 @@ All links were checked live as of June 2026. Contributions welcome — see [Cont
 - [Ludex](https://www.ludex.com/) - AI image-recognition app to scan, identify, value, and organize cards, with sales-based pricing and eBay listing tools.
 - [Dex](https://dextcg.com/) - Independent (unofficial) iOS/Android/web app to scan cards, track collections, check values, and build decks.
 - [My TCG Collection](https://mytcgcollection.com/) - Free web collection tracker with a booster-pack simulator and 30/60/90-day value data across English and Japanese sets.
+- [Pooka](https://pooka.app/) - Independent (unofficial) iOS/Android/web app to scan cards and track English and Japanese collections, with daily Cardmarket, eBay, and TCGplayer prices.
 
 ## Grading & Population
 
